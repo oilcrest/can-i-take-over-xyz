@@ -504,7 +504,7 @@
     "vulnerable": false
   },
   {
-    "cicd_pass": true,
+    "cicd_pass": false,
     "cname": ["launchrock.com"],
     "discussion": "[Issue #74](https://github.com/EdOverflow/can-i-take-over-xyz/issues/74)",
     "documentation": "",
